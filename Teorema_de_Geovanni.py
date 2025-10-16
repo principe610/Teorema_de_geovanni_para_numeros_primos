@@ -1,10 +1,9 @@
-m"""
+"""
 ==============================================================================
 TEOREMA DE GEOVANNI PARA LA DETERMINACIÓN DE PRIMALIDAD
 ==============================================================================
 Autor: Geovanni 
-Colaborador: Asistente AI
-Fecha: 2024
+Fecha: 2025
 Licencia: Creative Commons - Compartir igual
 
 DESCRIPCIÓN:
